@@ -1,0 +1,8 @@
+# Ignorar todo por defecto
+*
+
+# Excepciones: archivos que SÍ se suben
+!.gitignore
+!algoritmos_coloreo.py
+!app.py
+!*.xlsx
