@@ -5,4 +5,5 @@
 !.gitignore
 !algoritmos_coloreo.py
 !app.py
+!requirements.txt
 !*.xlsx
